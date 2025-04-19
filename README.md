@@ -113,13 +113,6 @@ To deepen your understanding of React.js and Netlify, explore the following reso
 - [React.js Documentation](https://reactjs.org/docs) - delve into React.js features, concepts, and API.
 - [React Official Tutorial](https://reactjs.org/tutorial) - an interactive tutorial to get hands-on experience with React.
 
-For Netlify-specific information:
-
-- [Netlify Documentation](https://docs.netlify.com) - learn about Netlify's features, deployment options, and more.
-- [Getting Started with Netlify and React](https://docs.netlify.com/frameworks/react) - a guide on deploying React applications on Netlify.
-
-You're encouraged to contribute and provide feedback on [Netlify's GitHub repository](https://github.com/netlify/netlify).
-
 
 ## :star: Give A Star
 
